@@ -4,9 +4,9 @@
 - 🙃 I've learned Java, Python, SQL, PHP, C and HTML.
 - 👩‍💻 I’m currently learning CSS,JS.
 - 📲 Social Handles : - 
-Facebook - utkarsh.brahma
-Instagram - utkarsh._.brahma
-Twitter - utkarsh_brahma
+Facebook - utkarsh.brahma |
+Instagram - utkarsh._.brahma |
+Twitter - utkarsh_brahma |
                           
 
 <!---
