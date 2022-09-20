@@ -1,7 +1,13 @@
-- 👋 Hi, I’m @uttcurse
-- 👀 I’m interested in coding, technophile.
-- 🌱 I’m currently learning C,HTML,CSS,NodeJS.
-- 📫 How to reach me : Insta - utkarsh._.brahma . Twitter - utkarsh_brahma.
+- 👋 Hi, I’m Utkarsh Brahma.
+- 🎓 Currently, I'm persueing Bachelors of Computer Applications at BIT Mesra.
+- 💻 I’m interested in coding & technophile.
+- 🙃 I've learned Java, Python, SQL, PHP, C and HTML.
+- 👩‍💻 I’m currently learning CSS,JS.
+- 📲 Social Handles : - 
+Facebook - https://www.facebook.com/utkarsh.brahma/
+Instagram - https://www.instagram.com/utkarsh._.brahma/ 
+Twitter - https://twitter.com/utkarsh_brahma
+                          
 
 <!---
 uttcurse/uttcurse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
