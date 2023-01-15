@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Utkarsh Brahma.
-- 🎓 Currently, I'm persueing Bachelors of Computer Applications at BIT Mesra.
+- 🎓 Currently, I'm persuing Bachelors of Computer Applications at BIT Mesra.
 - 💻 I’m interested in coding & technophile.
-- 🙃 I've learned Java, Python, SQL, PHP, C and HTML.
-- 👩‍💻 I’m currently learning CSS,JS.
+- 🙃 I've learned Java, Python, SQL, C, C++ and HTML.
+- 👩‍💻 I’m currently learning CSS JS.
 - 📲 Social Handles : - 
 Facebook - utkarsh.brahma |
 Instagram - utkarsh._.brahma |
