@@ -21,6 +21,10 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=uttcurse&limit=5&theme=nord&combine_all_yearly_contributions=true)
 
+### 🧑🏼‍💻 Hacktoctoberfest 2025
+[![An image of @uttcurse's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/uttcurse)](https://holopin.io/@uttcurse)
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=uttcurse&icon=2&color=9)](https://visitcount.itsvg.in)
 
